@@ -1,0 +1,61 @@
+body {
+  background-color: pink;
+  font-family:'Courier New', Courier, monospace;
+  color: palevioletred;
+}
+
+.header_div{
+background-color: white;
+border:5px none palevioletred;
+text-shadow: 5px 5px 5px  palevioletred;
+}
+
+
+.header_div p{
+letter-spacing: 3px;
+font-style: italic;
+  }
+
+.main_div button {
+
+  margin-top:30px;
+  border-radius: 10px;
+  padding:10px;
+  color:hotpink;
+  width:100px;
+  font-size:large;
+  font-weight:bolder;
+  letter-spacing: 1px;
+  background-color: rgb(255, 169, 184);
+  border:none;
+
+}
+
+.main_div button:hover {
+
+  background-color: rgb(255, 169, 184);
+
+}
+
+
+#info {
+  background-color: white;
+border:5px none palevioletred;
+margin:30px;
+margin-left: 300px;
+margin-right: 300px;
+padding:10px;
+border-radius:50px;
+}
+
+.copy_right_footer {
+  position:fixed;
+  text-align:center;
+  width:100%;
+  background-color: rgb(255, 255, 255);
+  margin-top:100px;
+  text-shadow: 5px 5px 5px  palevioletred;
+  font-size: larger;
+  line-height: 2;
+  border:none;
+}
